@@ -16,7 +16,7 @@ Landvergnügen is a travel guide and digital platform connecting campers with fa
 
 ## 🔒 Security
 
-If you discover a potential security vulnerability in any of our repositories, please report it privately via email to [dev@landvergnuegen.com](mailto:dev@landvergnuegen.com) instead of opening a public issue.
+If you discover a potential security vulnerability in any of our repositories, please report it privately via email to [admin@landvergnuegen.com](mailto:admin@landvergnuegen.com) instead of opening a public issue.
 
 ## ©️ Legal
 
